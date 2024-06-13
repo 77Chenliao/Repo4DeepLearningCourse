@@ -1,1 +1,2 @@
-
+- Transformer_model.py中定义了vit模型，可以修改模型参数。
+- 运行train.py训练模型，可以选择resnet50或vit模型。
