@@ -1,1 +1,3 @@
-
+- 运行pre_train进行微调，其中可以修改预训练数据集，已兼容的有imagenet和FashionMNIST。
+- 运行fine-tune_selfsup进行自监督微调。
+- 运行fine-tune_supervised进行监督微调。
